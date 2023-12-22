@@ -18,3 +18,11 @@ Store teacher details such as name, email, contact number, gender, date of birth
 Prerequisites
 Python 3.x
 Required Python packages (mentioned in the code comments)
+
+This project was worked on by :
+
+Dhruv Khanna (Me)
+Rex Joseph J
+Hareendiran N 
+Skanda K S 
+
